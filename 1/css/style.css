@@ -25,3 +25,11 @@ body {
   margin:0;
   padding:0;
 }
+
+table{
+  margin:5% auto;
+}
+
+.profile-picture{
+  max-width: 400px;
+}
