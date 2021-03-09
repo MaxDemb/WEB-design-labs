@@ -33,3 +33,7 @@ table{
 .profile-picture{
   max-width: 400px;
 }
+
+.half{
+  width: 50%;
+}
